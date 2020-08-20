@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<platform name="android">
+  <update src="icon.png" target="res/drawable-hdpi/splash.9.png" />
+  <update src="icon.png" target="res/drawable-ldpi/splash.9.png" />
+  <update src="icon.png" target="res/drawable-mdpi/splash.9.png" />
+  <update src="icon.png" target="res/drawable-xhdpi/splash.9.png" />
+  <update src="icon.png" target="res/drawable-xxhdpi/splash.9.png" />
+  <splash density="land-hdpi" src="icon.png" />
+  <splash density="land-ldpi" src="icon.png" />
+  <splash density="land-mdpi" src="icon.png" />
+  <splash density="land-xhdpi" src="icon.png" />
+  <splash density="hdpi" src="icon.png" />
+  <splash density="ldpi" src="icons.png" />
+  <splash density="mdpi" src="icon.png" />
+  <splash density="xhdpi" src="icon.png" />
+</platform>
